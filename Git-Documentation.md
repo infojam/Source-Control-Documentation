@@ -46,7 +46,7 @@ You can continously type ``git push`` to keep updating the GitHub branch online.
 ## Pull requests
 After completing git push, you will need to login into GitHub online and create a pull request.
 
-Ensure you assign the issue you created to the pull request.
+Ensure you assign the issue you created to the pull request. This is done by just typing #(ISSUE NUMBER) in the comment field. 
 
 Here you will be able to see the changes etc.
 
