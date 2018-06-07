@@ -25,8 +25,9 @@ To create a new branch use the command:
 When adding a new file, you need to add it to the repository.
 
 ```git add (filename)```
-## Check in (locally)
-You check in locally first, then push to github later.
+
+## Commit locally
+You commit locally first, then push to github later.
 
 Go on the source control manager, enter a comment and press control + enter;
 
