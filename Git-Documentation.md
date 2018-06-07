@@ -46,6 +46,8 @@ You can continously type ``git push`` to keep updating the GitHub branch online.
 ## Pull requests
 After completing git push, you will need to login into GitHub online and create a pull request.
 
+Ensure you assign the issue you created to the pull request.
+
 Here you will be able to see the changes etc.
 
 ## Merge Changes
@@ -80,7 +82,7 @@ If you now type ``git status`` it should say your branch is up to date with 'ori
 
 Once you have successfully merged and deleted the branch online, it is safe to delete from your local solution. To do this type
 
-``git branch -d branch-name-here
+``git branch -d branch-name-here``
 
 
 
