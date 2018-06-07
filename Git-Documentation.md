@@ -76,6 +76,12 @@ To then "pull" down the latest master source code, type
 
 If you now type ``git status`` it should say your branch is up to date with 'origin/master'
 
+## Deleting a branch
+
+Once you have successfully merged and deleted the branch online, it is safe to delete from your local solution. To do this type
+
+``git branch -d branch-name-here
+
 
 
 
