@@ -84,6 +84,18 @@ Once you have successfully merged and deleted the branch online, it is safe to d
 
 ``git branch -d branch-name-here``
 
+## To add an existing solution to a new github 
+
+Create a github respository
+
+``git init``
+
+``git remote add origin link-to-dot-git-file``
+
+Commit your changes
+
+``git push -u origin master``
+
 
 
 
