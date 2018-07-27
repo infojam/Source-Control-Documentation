@@ -96,6 +96,15 @@ Commit your changes
 
 ``git push -u origin master``
 
+## Update branch from master
+
+If your branch is outdated from the master. First checkout your branch 
+
+``git checkout OutdatedBranch``
+
+``git rebaes master``
+
+
 
 
 
