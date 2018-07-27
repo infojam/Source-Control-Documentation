@@ -102,7 +102,9 @@ If your branch is outdated from the master. First checkout your branch
 
 ``git checkout OutdatedBranch``
 
-``git rebaes master``
+``git rebase master``
+
+Source: https://stackoverflow.com/questions/8965781/update-an-outdated-branch-against-master-in-a-git-repo
 
 
 
