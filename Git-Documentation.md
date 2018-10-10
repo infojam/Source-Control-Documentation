@@ -107,6 +107,19 @@ If your branch is outdated from the master. First checkout your branch
 Source: https://stackoverflow.com/questions/8965781/update-an-outdated-branch-against-master-in-a-git-repo
 
 
+## .GitIgnore
+
+You can ignore files by simply typing on each line the folder to ignore or files.
+
+``/bin``
+``/obj``
+
+Use the above if you are building a .net core application.
+
+If you accidentally have pushed the folders you want to ignore already to the repository. You can remove them by typing:
+
+``git rm -r obj``
+
 
 
 
