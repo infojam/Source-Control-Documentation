@@ -122,4 +122,15 @@ If you accidentally have pushed the folders you want to ignore already to the re
 
 
 
+## How to git pull a specific branch that isnt available to you.
+
+If you did a clone, then all branches should be available to you. You need to checkout the branch.
+
+``git checkout todo-mvvm-databinding``
+
+If the branch isn't available for whatever reason, then you can create it and then pull it:
+
+``git checkout -b todo-mvvm-databinding`` "-b specifies "create branch"
+
+``git pull origin todo-mvvm-databinding`` will fetch and merge this branch into your local one.
 
